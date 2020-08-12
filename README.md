@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi 你好 👋
 
-Thanks for visiting my GitHub profile, it's great to meet you here! 😊
+欢迎访问我的 GitHub 主页 😊
 
-- 👯 I‘m looking for Golang & Cloud Native job opportunities!
-- 🔭 A software engineer, currently learning in Cloud Native. 
-- 😄 Fun fact: 1@linux.com just a vanity email, although it works well.
+- 我是一名软件工程师，对云原生很感兴趣
+
+- 目前居住在上海地区
+
+- 你可以通过邮箱 1@linux.com 联系我
+
+![2BFL github stats](https://github-readme-stats.vercel.app/api?username=3ks)
