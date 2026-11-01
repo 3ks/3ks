@@ -1,5 +1,3 @@
-### Hi 你好 👋
+### Hi 👋
 
 Hello World
-
-![2BFL github stats](https://github-readme-stats.vercel.app/api?username=3ks)
